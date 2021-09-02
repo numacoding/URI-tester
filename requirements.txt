@@ -1,0 +1,6 @@
+pandas
+selenium
+requests
+requests[socks]
+requests[security]
+beautifulsoup4
